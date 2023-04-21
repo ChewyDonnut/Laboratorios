@@ -1,2 +1,1 @@
-print("repositorio")
-print("segundo")
+a=1
